@@ -1,0 +1,13 @@
+{
+    "title": "iEdit User's Guide",
+    "description": "",
+    "plugins": [],
+    "language": "ja",
+    "gitbook": ">= 3.0.0",
+    "links": {
+        "sidebar": {
+            "iEdit site": "https://kondoumh.com/software/iedit/"
+        }
+    },
+    "pluginConfig": {}
+}
