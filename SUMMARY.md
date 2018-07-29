@@ -6,5 +6,5 @@
 * [画面構成](overview/screen.md)
 * [ノードとリンク](overview/node_and_link.md)
     * [ノードとは](overview/node_and_link.md#ノードとは)
-    * [リンクとは](overview/node_and_link.md#link#リンクとは)
+    * [リンクとは](overview/node_and_link.md#リンクとは)
 
