@@ -9,3 +9,4 @@
     * [リンクとは](overview/node_and_link.md#リンクとは)
 * [ノードの作成と編集](editing/edit_node.md)
 * [リンクの作成と編集](editing/edit_link.md)
+* [アウトライン編集](editing/edit_outline.md)
