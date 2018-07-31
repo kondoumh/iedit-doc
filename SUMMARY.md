@@ -10,3 +10,5 @@
 * [ノードの作成と編集](editing/edit_node.md)
 * [リンクの作成と編集](editing/edit_link.md)
 * [アウトライン編集](editing/edit_outline.md)
+* [ネットワークビューの機能](features/network_view.md)
+* [リンクビューの機能](features/link_view.md)
