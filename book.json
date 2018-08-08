@@ -1,7 +1,7 @@
 {
     "title": "iEdit User's Guide",
     "description": "",
-    "plugins": [],
+    "plugins": ["expandable-chapters"],
     "language": "ja",
     "gitbook": ">= 3.0.0",
     "links": {
