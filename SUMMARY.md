@@ -8,7 +8,7 @@
  * [ノードとは](overview/node_and_link.md#ノードとは)
  * [リンクとは](overview/node_and_link.md#リンクとは)
 * [ノードの作成と編集](editing/edit_node.md#ノードの作成と編集)
-* [ノード作成](editing/edit_node.md#ノード作成)
+ * [ノード作成](editing/edit_node.md#ノード作成)
  * [ノード編集](editing/edit_node.md#ノード編集)
  * [ノード削除](editing/edit_node.md#ノード削除)
  * [ノード設定](editing/edit_node.md#ノード設定)
