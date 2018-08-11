@@ -20,3 +20,13 @@
 * [アウトライン編集](editing/edit_outline.md#アウトライン編集)
 * [ネットワークビューの機能](features/network_view.md)
 * [リンクビューの機能](features/link_view.md)
+* [ビューの高度な連携](features/advanced_cooperation.md)
+* [ファイルの保存](features/save_file.md)
+* [インポート・エクスポート](features/import_export.md)
+* メニューコマンド
+* ツールバー
+* 検索
+* ファイルタイプの登録・削除
+* オプション設定
+* ウィンドウの透明化
+* FAQ
