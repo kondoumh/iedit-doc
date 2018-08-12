@@ -26,7 +26,7 @@
 * メニューコマンド
 * ツールバー
 * 検索
-* ファイルタイプの登録・削除
+* [ファイルタイプの登録・削除](settings/filetype_registry.md)
 * オプション設定
-* ウィンドウの透明化
+* [ウィンドウの透明化](settings/window_transparency.md)
 * FAQ
