@@ -23,10 +23,12 @@
 * [ビューの高度な連携](features/advanced_cooperation.md)
 * [ファイルの保存](features/save_file.md)
 * [インポート・エクスポート](features/import_export.md)
+* 検索
+* 各種設定
+ * オプション設定
+ * [ファイルタイプの登録・削除](settings/filetype_registry.md)
+ * [ウィンドウの透明化](settings/window_transparency.md)
+ * [メタファイルサイズ](settings/metafile_size.md)
 * メニューコマンド
 * ツールバー
-* 検索
-* [ファイルタイプの登録・削除](settings/filetype_registry.md)
-* オプション設定
-* [ウィンドウの透明化](settings/window_transparency.md)
 * FAQ
