@@ -19,6 +19,7 @@
  * [リンク設定](editing/edit_link.md#リンク設定)
 * [アウトライン編集](editing/edit_outline.md#アウトライン編集)
 * [ネットワークビューの機能](features/network_view.md)
+* [便利な入力方法](features/efficient_input_method.md)
 * [リンクビューの機能](features/link_view.md)
 * [ビューの高度な連携](features/advanced_cooperation.md)
 * [ファイルの保存](features/save_file.md)
