@@ -32,3 +32,4 @@
  * [ウィンドウの透明化](settings/window_transparency.md)
  * [メタファイルサイズ](settings/metafile_size.md)
 * FAQ
+* [リリースノート](releasenotes/README.md)
