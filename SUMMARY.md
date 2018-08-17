@@ -24,12 +24,11 @@
 * [ファイルの保存](features/save_file.md)
 * [インポート・エクスポート](features/import_export.md)
 * [検索](features/search.md)
-* メニューコマンド
+* [メニューコマンド](features/menu.md)
 * [ツールバー](features/toolbar.md)
-* 各種設定
- * オプション設定
+* [各種設定](settings/README.md)
+ * [オプション設定](settings/option_settings.md)
  * [ファイルタイプの登録・削除](settings/filetype_registry.md)
  * [ウィンドウの透明化](settings/window_transparency.md)
  * [メタファイルサイズ](settings/metafile_size.md)
-* FAQ
 * [リリースノート](releasenotes/README.md)
