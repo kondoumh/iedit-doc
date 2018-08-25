@@ -6,7 +6,7 @@
     "gitbook": ">= 3.0.0",
     "links": {
         "sidebar": {
-            "iEdit site": "https://kondoumh.com/software/iedit/"
+            "kondoumh.com": "https://kondoumh.com/software/iedit/"
         }
     },
     "pluginConfig": {}
