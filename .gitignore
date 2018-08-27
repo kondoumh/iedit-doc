@@ -14,5 +14,8 @@ node_modules
 *.mobi
 *.pdf
 
+# default output dir
+_book
+
 # for Mac
 .DS_Store
