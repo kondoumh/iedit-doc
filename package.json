@@ -1,0 +1,32 @@
+{
+  "name": "iedit-doc",
+  "version": "1.0.0",
+  "description": "iEdit User's Guide published by GitBook",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "gitbook-plugin-ga": "^1.0.1",
+    "gitbook-plugin-expandable-chapters": "^0.2.0"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "serve": "gitbook serve ./ ./docs",
+    "build": "gitbook build ./ ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kondoumh/iedit-doc.git"
+  },
+  "keywords": [
+    "gitbook"
+  ],
+  "author": "kondoumh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kondoumh/iedit-doc/issues"
+  },
+  "homepage": "https://github.com/kondoumh/iedit-doc#readme"
+}
