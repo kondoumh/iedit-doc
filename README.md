@@ -12,8 +12,8 @@ iEdit では、ラベルとテキストからなる「ノード」をアイデ�
 文書の構成を考える、フロー図を書く、日々の仕事を整理するなど用途はさまざまです。
 
 ## iEdit の動作環境
-iEdit は Windows 7/8/8.1/10 で動作します。Windows XP をサポートするバイナリも現在のところ公開しています。
+iEdit は Windows 10 で動作します。
 
 ## 開発環境
 
-iEdit は Microsoft Visual C++ 2017 で開発しています。
+iEdit は Microsoft Visual C++ 14.1 (2017) でビルドしました。
