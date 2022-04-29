@@ -6,11 +6,10 @@
     "doc": "docs"
   },
   "dependencies": {
-    "gitbook-plugin-ga": "^1.0.1",
     "gitbook-plugin-expandable-chapters": "^0.2.0"
   },
   "devDependencies": {
-    "honkit": "^3.4.0"
+    "honkit": "^3.7.1"
   },
   "scripts": {
     "serve": "honkit serve",

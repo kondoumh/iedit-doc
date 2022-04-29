@@ -1,17 +1,12 @@
 {
     "title": "iEdit User's Guide",
     "description": "",
-    "plugins": ["expandable-chapters", "ga"],
+    "plugins": ["expandable-chapters"],
     "language": "ja",
     "gitbook": ">= 3.0.0",
     "links": {
         "sidebar": {
             "kondoumh.com": "https://kondoumh.com/software/iedit/"
-        }
-    },
-    "pluginsConfig": {
-        "ga": {
-            "token": "UA-5618326-7"
         }
     }
 }
