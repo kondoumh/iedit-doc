@@ -9,7 +9,7 @@
     "gitbook-plugin-expandable-chapters": "^0.2.0"
   },
   "devDependencies": {
-    "honkit": "^4.0.8"
+    "honkit": "^6.1.4"
   },
   "scripts": {
     "serve": "honkit serve",
